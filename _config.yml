@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Animal Crossing Music (Revived) is a a fun Chrome extension 
   for playing Animal Crossing's music in the browser, while 
   you work, play or browse the web! ✨
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://jordigarcl.github.io" # the subpath of your site, e.g. /blog
+url: "/ac-music-extension-revived" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
