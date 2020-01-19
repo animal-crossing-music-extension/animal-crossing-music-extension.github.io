@@ -6,9 +6,14 @@ layout: home
 ---
 ![](https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true){: .img-thumbnail}
 
-Features:
+##### Download
+
+
+##### Features:
 - Hourly music: listen to hourly music
 - Live weather: automatically play weather variants of hourly tracks according to your location!
 - K.K. Slider: K.K. tracks include!
 - Town Tune: Customize your own town tune!
+
+Learn more about features [here](/features.html)!
 
