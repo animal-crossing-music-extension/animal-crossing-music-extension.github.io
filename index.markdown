@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![](https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true)
+![](https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true){: .img-thumbnail}
 
 Features:
 - Hourly music: listen to hourly music
