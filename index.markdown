@@ -31,7 +31,7 @@ Play Animal Crossing's background music in real-time throughout your day!
 <dd class="mb-2">Compone your own Town Tune and make it play on each hour change!</dd>
 </dl>
 
-<div class="alert alert-dark mb-4">
+<div class="alert alert-dark mb-5">
 Read about the full set of features <a href="/features.html" class="alert-link">here</a>!
 </div>
 
@@ -39,9 +39,7 @@ Read about the full set of features <a href="/features.html" class="alert-link">
 #### How to install
 
 ##### Chrome Webstore
-**Animal Crossing Music** is published in the Chrome Webstore. 
-
-Just go to the extension page and click 'Add to Chrome' to install the latest stable version of the extension.
+**Animal Crossing Music** is published in the Chrome Webstore. To install the latest version of the extension just click 'Add to Chrome'.
 
 <div class="mb-4">
 <a href="" ><img width="25%" class="border border-dark rounded" src="img/badge.png"></a></div>
