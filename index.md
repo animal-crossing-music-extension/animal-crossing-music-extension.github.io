@@ -2,7 +2,6 @@
 layout: home
 ---
 
-
 <h3>
   Animal Crossing Music
   <small class="text-muted">(Chrome extension)</small>
@@ -14,7 +13,7 @@ Play Animal Crossing's background music in real-time throughout your day!
 
 **Animal Crossing Music** is an unofficial, non-profit, [open-source](https://github.com/PikaDude/ac-music-extension-revived) project that allows you to play music from the Animal Crossing series in your browser. It makes use of Nintendo's resources under [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
 
-<img class="border border-secondary rounded mb-2" src="https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true"/>
+<img class="border border-secondary rounded mb-2" src="img/banner.png"/>
 
 #### Features
 <dl>
