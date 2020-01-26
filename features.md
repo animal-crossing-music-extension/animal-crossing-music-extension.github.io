@@ -1,11 +1,17 @@
 ---
 title: 'Features'
 ---
-These are all the features this extension provides:
+This extension is packed with many awesome features.
+The following list features the most prominent ones.
+Click on any of them to see a detailed description:
+
+#### Feature list
 - [Hourly Music](#hourly-music-)
-- [Live Weather](#live-weather-)
-- [K.K. Slider Tracks](#kk-slider-)
-- [Town Tune Editor](#town-tune-)
+- [Weather Variants](#weather-variants-)
+- [Live Weather](#live-weather-support-)
+- [MediaSession UI](#mediasession-support-)
+- [K.K. Slider Tracks](#kk-slider-tracks-)
+- [Town Tune Editor](#town-tune-editor-)
 
 <style>
 h3 {
