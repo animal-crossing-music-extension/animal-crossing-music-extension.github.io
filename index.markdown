@@ -31,7 +31,7 @@ Play Animal Crossing's background music in real-time throughout your day!
 <dd class="mb-2">Compone your own Town Tune and make it play on each hour change!</dd>
 </dl>
 
-<div class="alert alert-dark mb-5">
+<div class="alert alert-warning border border-warning mb-5">
 Read about the full set of features <a href="{{ '/features.html' | relative_url }}" class="alert-link">here</a>!
 </div>
 
