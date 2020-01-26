@@ -1,32 +1,21 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
       </div>
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+      <div class="footer-col footer-col-2 mr-auto">
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+      <p style="text-align: right">
+        <span class="h6">Contact us:</span><br>
+        <a href="https://github.com/PikaDude/ac-music-extension-revived"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">Github</span></a>
+        <br>
+        <a href="https://twitter.com/music_crossing"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span><span class="username">Twitter</span></a>
+      </p>
       </div>
     </div>
 
