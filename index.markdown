@@ -14,50 +14,43 @@ Play Animal Crossing's background music in real-time throughout your day!
 
 **Animal Crossing Music** is an unofficial, non-profit, [open-source](https://github.com/PikaDude/ac-music-extension-revived) project that allows you to play music from the Animal Crossing series in your browser. It makes use of Nintendo's resources under [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
 
-<img class="border border-secondary rounded" src="https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true"/>
+<img class="border border-secondary rounded mb-2" src="https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true"/>
 
 #### Features
 <dl>
-<dt>Hourly music</dt>
-<dd class="mb-2">Play hourly background music in real-time.</dd>
+<dt>➤ Hourly music</dt>
+<dd class="mb-2">Play hourly background music in real-time. Raining and snowing versions are included!</dd>
 
-<dt>Weather variants</dt>
-<dd class="mb-2">Raining and snowing variants for the hourly tracks.</dd>
+<dt>➤ Live weather</dt>
+<dd class="mb-2">Share your location to automatically switch hourly music to the corresponding weather version!</dd>
 
-<dt>Live weather</dt>
-<dd class="mb-2">Automatically play weather variants according to your location.</dd>
+<dt>➤ K.K. Slider</dt>
+<dd class="mb-2">You can listen K.K. play his mitical songs, either 24/7 or only on Saturday afternoons.</dd>
 
-<dt>Audio detection</dt>
-<dd class="mb-2">Pause or lower the volume when playing music from other tabs.</dd>
-
-<dt>K.K. Slider</dt>
-<dd class="mb-2">Listen to K.K. tunes in their live or aircheck versions.</dd>
-
-<dt>Town Tune</dt>
-<dd class="mb-2">Compone your own Town Tune and make it play on each hour change.</dd>
-
-<dt>Music Control</dt>
-<dd class="mb-2">Integration with Chrome's new media controls.</dd>
+<dt>➤ Town Tune</dt>
+<dd class="mb-2">Compone your own Town Tune and make it play on each hour change!</dd>
 </dl>
 
-<div class="alert alert-dark">
-Learn more about features <a href="/features.html" class="alert-link">here</a>!
+<div class="alert alert-dark mb-4">
+Read about the full set of features <a href="/features.html" class="alert-link">here</a>!
 </div>
 
-#### Installation
-##### Chrome Webstore
 
-'Animal Crossing Music' is published in the Chrome Webstore. 
+#### How to install
+
+##### Chrome Webstore
+**Animal Crossing Music** is published in the Chrome Webstore. 
 
 Just go to the extension page and click 'Add to Chrome' to install the latest stable version of the extension.
 
-<a href="" ><img width="35%" class="border border-dark" src="img/badge.png"></a>
+<div class="mb-4">
+<a href="" ><img width="25%" class="border border-dark rounded" src="img/badge.png"></a></div>
 
-##### Github repository
-Alternatively, you can 
+##### Github Repository
+As an open-source project, the source code of the extension is available in Github. You are free to download it and manually install it.
 
 <span>
-<img class="border" width="30%" src="img/gh-badge.png">
+<img class="border border-dark rounded" width="25%" src="img/gh-badge.png">
 </span>
 
 
