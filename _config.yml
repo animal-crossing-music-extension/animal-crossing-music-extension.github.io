@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Animal Crossing Music (Revived)
+title: Animal Crossing Music
 email: weshouldchoose@anemail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Animal Crossing Music (Revived) is a a fun Chrome extension 

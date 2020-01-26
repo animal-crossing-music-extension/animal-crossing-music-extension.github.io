@@ -1,20 +1,22 @@
 ---
 layout: home
 ---
-<img class="border border-secondary rounded" src="https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true"/>
+
 
 <h3>
   Animal Crossing Music
-  <span class="badge badge-secondary">v4.0.0</span>
+  <small class="text-muted">(Chrome extension)</small>
 </h3>
 
 <p class="lead">
 Play Animal Crossing's background music in real-time throughout your day!
 </p>
 
-**Animal Crossing Music** is an unofficial, non-profit, [open-source](https://github.com/PikaDude/ac-music-extension-revived) **chrome extension** that allows you to play music from the Animal Crossing series in your browser. It makes use of Nintendo's resources under [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
+**Animal Crossing Music** is an unofficial, non-profit, [open-source](https://github.com/PikaDude/ac-music-extension-revived) project that allows you to play music from the Animal Crossing series in your browser. It makes use of Nintendo's resources under [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
 
-#### Features:
+<img class="border border-secondary rounded" src="https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true"/>
+
+#### Features
 - **Hourly music**: Play hourly background music in real-time.
 - **Weather variants**: Raining and snowing variants for the hourly tracks.
 - **Live weather**: Automatically play weather variants according to your location.
@@ -30,7 +32,7 @@ Learn more about features <a href="/features.html" class="alert-link">here</a>!
 
 #### Install
 **Animal Crossing Music** is published in the Chrome Webstore. 
-You can install the latest version of the extension in your Chrome browser  the Chrome Webstsore!
+You can install the latest version of the extension in your Chrome browser by !
 
 <a href="" ><img width="30%" class="border border-dark" src="img/badge.png"></a>
 
