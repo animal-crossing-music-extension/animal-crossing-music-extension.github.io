@@ -32,7 +32,7 @@ Play Animal Crossing's background music in real-time throughout your day!
 </dl>
 
 <div class="alert alert-dark mb-5">
-Read about the full set of features <a href="/features.html" class="alert-link">here</a>!
+Read about the full set of features <a href="{{ '/features.html' | relative_url }}" class="alert-link">here</a>!
 </div>
 
 
