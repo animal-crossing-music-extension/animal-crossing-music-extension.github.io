@@ -73,7 +73,7 @@ A big part of the Animal Crossing experience is, undoubtedly, being able to list
 
 The extension features around **90 tunes** in both their 'live' and 'aircheck' versions. You can choose whether to keep his appearances to the usual Saturday nights, or to play his songs 24/7.
 
-<img class="img-thumbnail" style="display: block; margin: auto;" width="60%" src="img/feat-kk.png">
+<img class="border border-dark rounded" style="display: block; margin: auto;" width="60%" src="img/feat-kk.png">
 
 ### Town Tune Editor 🔔
 Being able to listen to hourly music and have it change automatically is cool and everything, but wouldn't you be missing something if the music just changed from the previous track to the next?
