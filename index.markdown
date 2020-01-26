@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![](https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true){: .img-thumbnail}
+<img class="border border-secondary rounded" src="https://github.com/PikaDude/ac-music-extension-revived/blob/master/docs/banner.png?raw=true"/>
 
 <h3>
   Animal Crossing Music
@@ -28,7 +28,7 @@ Play Animal Crossing's background music in real-time throughout your day!
 Learn more about features <a href="/features.html" class="alert-link">here</a>!
 </div>
 
-##### Install
+#### Install
 **Animal Crossing Music** is published in the Chrome Webstore. 
 You can install the latest version of the extension in your Chrome browser  the Chrome Webstsore!
 
