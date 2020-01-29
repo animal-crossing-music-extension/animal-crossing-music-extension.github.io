@@ -28,6 +28,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://animal-crossing-music-extension.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: music_crossing
 github_username:  animal-crossing-music-extension
+github_repository: "animal-crossing-music-extension/ac-music-extension"
+webstore_link: "animal-crossing-music/fcedlaimpcfgpnfdgjbmmfibkklpioop"
 
 # Build settings
 theme: minima
