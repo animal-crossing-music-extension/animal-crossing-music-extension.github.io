@@ -60,4 +60,4 @@ If you have any questions or doubts, feel free to jump into the project's discor
 ##### Email
 You may also reach out to us through the following email: 
 
-animal-crossing-music-extension@googlegroups.com
+mail@acmusicext.com
