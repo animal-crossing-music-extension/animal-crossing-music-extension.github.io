@@ -31,10 +31,13 @@ Featuring music from the following titles:
 Animal Crossing
 </li>
 <li>
-Wild World / City Folk
+Wild World / City Folk / Let's Go to the City
 </li>
 <li>
 New Leaf
+</li>
+<li>
+New Horizons
 </li>
 </ul>
 </p>
