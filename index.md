@@ -55,7 +55,7 @@ As an open-source project, the source code of the extension is available in Gith
 ##### Discord
 If you have any questions or doubts, feel free to jump into the project's discord channel.
 
-<a href="https://chrome.google.com/webstore/detail/{{ site.webstore_link }}" ><img width="25%" class="" src="img/dc-badge.png"></a>
+<a href="https://discord.gg/4FMrEF8" ><img width="25%" class="" src="img/dc-badge.png"></a>
 
 ##### Email
 You may also reach out to us through the following email: 
